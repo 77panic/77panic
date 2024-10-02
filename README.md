@@ -3,7 +3,7 @@
 ### My Portfolio:
 
 - 🌵 The Cactus Addon for the Meteor Client. [Cactus Addon](https://github.com/77panic/CactusAddon)
-- 👑 Server owner of EliteDupe that boasts a 22.4k+ visit count! EliteDupe.minehut.gg
+- 👑 Server owner of EliteDupe that boasts a 22.6k+ visit count! EliteDupe.minehut.gg
 
 Many of my projects are just prototypes and are usually private.
 
